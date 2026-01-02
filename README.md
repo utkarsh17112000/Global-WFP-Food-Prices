@@ -15,15 +15,15 @@ The objective is to derive policy-relevant, business-oriented, and risk-focused 
 
 ● Total Rows: 3,109,617
 
-● Coverage:
+### Coverage:
 
- ● 98 Countries
+  ● 98 Countries
  
- ● ~3000 Markets
+  ● ~3000 Markets
  
- ● Commodities: rice, maize, wheat, beans, sugar, fish, etc.
+  ● Commodities: rice, maize, wheat, beans, sugar, fish, etc.
  
- ● Time range: 2000 → Present
+  ● Time range: 2000 → Present
 
 ### 📂 Excel Dataset (Google Sheets):
 👉 https://docs.google.com/spreadsheets/d/1RSfW3uKJ2shzBivUhE1_TjSu_khhH3NX/edit?usp=sharing

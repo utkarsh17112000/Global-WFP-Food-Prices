@@ -123,7 +123,7 @@ The objective is to derive policy-relevant, business-oriented, and risk-focused 
 ● High-volatility & high-inflation commodities
 
 
-##🧠 SQL Coverage (42 Questions)
+## 🧠 SQL Coverage (42 Questions)
 
 ### ● Level 1: Core SQL fundamentals
 
